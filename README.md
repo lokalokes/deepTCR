@@ -1,8 +1,8 @@
-# [Your Project Title Here]
+# Disentangling patterns of T cell receptors // Evgeniya Lokes, Janine Berndt
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/lokalokes/deepTCR]
 
 ## Description
 
@@ -10,7 +10,7 @@
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+[Regression / Clustering / Other]
 
 ### Results Summary
 
