@@ -6,7 +6,7 @@ We had several attempts to get a baseline model working to our satisfaction.
 
 In our major first attempt, we decided to use only **amino_acids_length_15**  as this [dataset](https://github.com/lokalokes/deepTCR/blob/main/1_DatasetCharacteristics/Testing_length-15.csv) would have all possible positions filled, as shown in the given [screenshot](https://github.com/lokalokes/deepTCR/blob/main/1_DatasetCharacteristics/Screenshot%202024-06-17%20at%2018.43.20.png).
 
-The `deepTCR_baseline_model` involves converting letters into numbers based on a predefined [dictionary](https://github.com/lokalokes/deepTCR/blob/main/1_DatasetCharacteristics/dictionary). We started with a simple model.
+The `deepTCR_baseline_model` involves converting (mapping) letters into numbers based on a predefined [dictionary](https://github.com/lokalokes/deepTCR/blob/main/1_DatasetCharacteristics/dictionary). We started with a simple model.
 
 ```python
 # Define Parameters
