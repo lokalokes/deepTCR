@@ -35,5 +35,5 @@ In our second attempt we decided to exclude all 'na' to encourage better predict
 ## Baseline Model - Version 3
 The third attempt included removing column 1-3 and the last two colums due to the lack of information. With the model, we tried to predict the fifth position. We run the model for 10, 100 and 1000 epochs to check for  **overfitting** and thereby determine if the model is actually learning. Unfortunately, we made our first big mistake not saving our data on a google drive. Hence, pickle data is not included for this particular model, just the Notebooks. 
    
-**[baseline_model_17_06.ipynb](https://github.com/lokalokes/deepTCR/blob/main/2_BaselineModel/deepTCR_baseline_model_17_06.ipynb)**  
-**[baseline_model_17_06_1000_epochs.ipynb](https://github.com/lokalokes/deepTCR/blob/main/2_BaselineModel/deepTCR_baseline_model_17_06_1000_epochs.ipynb)**
+**[baseline_model_17_06.ipynb](https://github.com/lokalokes/deepTCR/blob/main/2_BaselineModel/deepTCR_model_17_06.ipynb)**  
+**[baseline_model_17_06_1000_epochs.ipynb](https://github.com/lokalokes/deepTCR/blob/main/2_BaselineModel/deepTCR_model_17_06_1000_epochs.ipynb)**
