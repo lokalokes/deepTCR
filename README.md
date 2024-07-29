@@ -1,25 +1,14 @@
-<<<<<<< HEAD
-# Disentangling patterns of T cell receptors // Evgeniya Lokes, Janine Berndt
-||||||| f7441ed
-# [Your Project Title Here]
-=======
-# Disentangling patterns in T cells // by Evgeniya Lokes and Janine Berndt
->>>>>>> 7afbb54aa1030186d78d1ee9c74dcfdf349159c6
+# Disentangling patterns of T cells
+# by Evgeniya Lokes and Janine Berndt  
 
-## Repository Link
 
-<<<<<<< HEAD
-[https://github.com/lokalokes/deepTCR]
-||||||| f7441ed
-[https://github.com/your_username/your_project_name]
-=======
-https://github.com/lokalokes/deepTCR
->>>>>>> 7afbb54aa1030186d78d1ee9c74dcfdf349159c6
+## [Repository Link](https://github.com/lokalokes/deepTCR)
+
 
 ## Description
 
 ### Project Overview:
-This deep learning project aims to analyze T cell receptor (TCR) repertoires to understand immune responses better and identify potential patterns of diseases. TCRs are crucial components of the adaptive immune system, and their diversity and specificity play a vital role in recognizing and responding to pathogens and abnormal cells.
+This deep learning project aims to analyze T cell receptor (TCR) repertoires to better understand immune responses and identify potential patterns of diseases. TCRs are crucial components of the adaptive immune system, with their diversity and specificity playing a vital role in recognizing and responding to pathogens and abnormal cells.
 
 ### Objectives:
 
@@ -38,29 +27,25 @@ This deep learning project aims to analyze T cell receptor (TCR) repertoires to 
 
 ### Challenges:
 
-Data Complexity: Handling the high dimensionality and variability of TCR sequences.
-Biological Interpretation: Translating model predictions into meaningful biological insights.
-Limited Labeled Data: Addressing the scarcity of labeled datasets for specific diseases or conditions.
+- Data Complexity: Handling the high dimensionality and variability of TCR sequences.
+- Biological Interpretation: Translating model predictions into meaningful biological insights.
+- Limited Labeled Data: Addressing the scarcity of labeled datasets for specific diseases or conditions.
 
 ### Impact:
 This project has the potential to enhance our understanding of immune responses and improve the diagnosis and treatment of diseases by leveraging the power of deep learning to analyze complex TCR repertoire data.
 
-### Task Type
-
-[Regression / Clustering / Other]
-
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** deepTCR_model2
+- **Evaluation and Result:**  
+  High Training Accurancy 65 % + could not archive **_Overfitting_** --> Data is **_RANDOM_**!
 
 ## Documentation
 
 1. **[Literature Review](0_LiteratureReview/README.md)**
-2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
-3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
-4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
+2. **[Dataset Characteristics](1_DatasetCharacteristics/README.md)**
+3. **[Baseline Model](2_BaselineModel/README.md)**
+4. **[Model Definition and Evaluation](3_Model/README.md)**
 5. **[Presentation](4_Presentation/README.md)**
 
 ## Cover Image
