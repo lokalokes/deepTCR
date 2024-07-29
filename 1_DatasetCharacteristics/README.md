@@ -36,5 +36,7 @@ To obtain data from the **[IMGT database](https://www.imgt.org/)** in a usable f
    3.5 **Prepare CDR3 matrix for 34 patients**
    - Output file: **[pivoted_cdr3_subset_34_patients.tsv](https://github.com/lokalokes/deepTCR/blob/main/1_DatasetCharacteristics/pivoted_cdr3_subset_34_patients.tsv)**  
 
-**[Notebook](https://github.com/lokalokes/deepTCR/blob/main/1_DatasetCharacteristics/cdr3_patient_data.ipynb)**
+**[Notebook](https://github.com/lokalokes/deepTCR/blob/main/1_DatasetCharacteristics/cdr3_patient_data.ipynb)**  
+
+An additional **[heatmap](https://github.com/lokalokes/deepTCR/blob/main/1_DatasetCharacteristics/heatmap_freq.ipynb)** provided an overview what to expect as output data for our model.
 
