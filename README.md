@@ -50,4 +50,4 @@ This project has the potential to enhance our understanding of immune responses 
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+[Project Cover Image](https://github.com/lokalokes/deepTCR/blob/main/CoverImage/TCR.png)
